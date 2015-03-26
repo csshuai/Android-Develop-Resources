@@ -12,6 +12,10 @@ Android-Develop-Resources
 	<span style="font-size:18px">已经有人将优秀的Android开源项目汇总了，直接点开吧。</span>
 </p>
 <p>
+	<span style="font-size:18px"><a target="_blank" href="https://github.com/wasabeef/awesome-android-ui">awesome-android-ui</a><br />
+	</span>
+</p>
+<p>
 	<span style="font-size:18px"><a target="_blank" href="https://github.com/Trinea/android-open-project">android-open-project</a><br />
 	</span>
 </p>
